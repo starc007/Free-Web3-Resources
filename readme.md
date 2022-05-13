@@ -6,21 +6,21 @@
 
 1.  **HTML**
 
-- HTML Crash Course For Absolute Beginners by Traversy Media 👉🏻 [`Click here`](https://youtu.be/UB1O30fR-EE)
-- HTML Crash Course for Absolute Beginners by Clever Programmer 👉🏻 [`Click here`](https://youtu.be/FNGoExJlLQY).
+    - HTML Crash Course For Absolute Beginners by Traversy Media 👉🏻 [`Click here`](https://youtu.be/UB1O30fR-EE)
+    - HTML Crash Course for Absolute Beginners by Clever Programmer 👉🏻 [`Click here`](https://youtu.be/FNGoExJlLQY).
 
 2.  **CSS**
 
-- CSS Crash Course For Absolute Beginners by Traversy Media 👉🏻 [`Click here`](https://youtu.be/yfoY53QXEnI)
-- CSS Crash Course for Absolute Beginners by Clever Programmer 👉🏻 [`Click here`](https://youtu.be/KN6oBEOz2ZI).
+    - CSS Crash Course For Absolute Beginners by Traversy Media 👉🏻 [`Click here`](https://youtu.be/yfoY53QXEnI)
+    - CSS Crash Course for Absolute Beginners by Clever Programmer 👉🏻 [`Click here`](https://youtu.be/KN6oBEOz2ZI).
 
 3.  **JavaScript**
 
-- JavaScript Crash Course For Absolute Beginners by Traversy Media 👉🏻 [`Click here`](https://youtu.be/hdI2bqOjy3c)
-- JavaScript Tutorials for Beginners by Clever Programmer 👉🏻 [`Click here`](https://youtu.be/Qqx_wzMmFeA).
-- Namaste Javascript Series by Akshay Saini 👉🏻 [`Click here`](https://youtu.be/pN6jk0uUrD8).
+    - JavaScript Crash Course For Absolute Beginners by Traversy Media 👉🏻 [`Click here`](https://youtu.be/hdI2bqOjy3c)
+    - JavaScript Tutorials for Beginners by Clever Programmer 👉🏻 [`Click here`](https://youtu.be/Qqx_wzMmFeA).
+    - Namaste Javascript Series by Akshay Saini 👉🏻 [`Click here`](https://youtu.be/pN6jk0uUrD8).
 
-  After Learning the basics of HTMl, CSS and JavaScript. Build some projects using the above technologies.
+> After Learning the basics of HTMl, CSS and JavaScript. Build some projects using the above technologies.
 
 ### Some Beginner Project Ideas:
 
